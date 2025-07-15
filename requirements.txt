@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+faiss-cpu
+requests
+PyMuPDF
+langchain_community
+python-dotenv
+tiktoken
+simple-salesforce
